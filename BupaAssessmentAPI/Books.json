@@ -1,0 +1,52 @@
+{
+    "BookAuth": [
+        {
+            "Name": "Khaled Hosseini",
+            "Age": 29,
+            "Books": [
+                {
+                    "Name": "Fiction genres",
+                    "Type": "Fantasy"
+                }
+            ]
+        },
+        {
+            "Name": "Akshay",
+            "Age": 15,
+            "Books": [
+                {
+                    "Name": "Horror",
+                    "Type": "Thriller"
+                },
+                {
+                    "Name": "Magical Realism",
+                    "Type": "Graphic Novel"
+                }
+            ]
+        },
+        {
+            "Name": "Emma Cline",
+            "Age": 16,
+            "Books": [
+                {
+                    "Name": "The Guest",
+                    "Type": "Thriller"
+                }
+            ]
+        },
+        {
+            "Name": "Darrin Bell",
+            "Age": 33,
+            "Books": [
+                {
+                    "Name": "The Talk",
+                    "Type": "Thriller"
+                },
+                {
+                    "Name": "Hello Beautiful",
+                    "Type": "Graphic Novel"
+                }
+            ]
+        }
+    ]
+}

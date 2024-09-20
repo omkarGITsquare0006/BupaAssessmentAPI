@@ -1,0 +1,6 @@
+@BupaAssessmentAPI_HostAddress = http://localhost:5282
+
+GET {{BupaAssessmentAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
