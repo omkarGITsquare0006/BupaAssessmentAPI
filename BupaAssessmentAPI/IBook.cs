@@ -4,6 +4,6 @@ namespace BupaAssessmentAPI
 {
     public interface IBook
     {
-        public IEnumerable<BookAuth> GetBooks(string BookCategory);
+        public Task<Dictionary<string, List<string>>> GetBooks();
     }
 }
